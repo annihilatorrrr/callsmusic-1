@@ -38,13 +38,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 [Click here](https://github.com/callsmusic/callsmusicheroku)
 
-
-## Credits
-
-- [Roj](https://github.com/rojserbest) & [Marvin](https://github.com/BlackStoneReborn): development
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-
 ## License
 
-### GNU General Public License v3.0
-[Read more](http://www.gnu.org/licenses/#GPL)
+### GNU Affero General Public License v3.0
+[Read more](http://www.gnu.org/licenses/#AGPL)
